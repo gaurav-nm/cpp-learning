@@ -1,6 +1,7 @@
 # 🚀 C++ Learning Journey
 
 Tracking my progress as I master C++ and data structures & algorithms.
+>I am Gaurav Pal
 
 ---
 
