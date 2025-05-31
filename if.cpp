@@ -17,8 +17,20 @@ int main() {
 }
 */
 
-
+// to find which number is greater a or b 
 int main(){
+    int a,b;
+    cout << "enter the value of A " << endl;
+    cin >> a;
+    cout << "enter the value of B" << endl ;
+    cin >> b;
+
+    if(a>b){
+        cout << "A is greater than B" << endl;
+    }
+    if (a<b){
+        cout << "B is greater than A" << endl;
+    }
     
 }
 
