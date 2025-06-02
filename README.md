@@ -1,50 +1,22 @@
-# 🚀 C++ Learning Journey
+# 📘 C++ Learning Repository
 
-Tracking my progress as I master C++ and data structures & algorithms.
->I am Gaurav Pal
-
----
-
-## 📅 Weekly Progress
-
-### Week 1: Basics
-- ✅ Day 1: Variables & Data Types
-- ✅ Day 2: Loops & Conditionals
-- ✅ Day 3: Functions
-
-### Week 2: Arrays, Strings, Pointers
-- ✅ Day 4: Arrays
-- ✅ Day 5: Pointers
-- 🔲 Day 6: Strings
-
-### Week 3: Object-Oriented Programming
-- 🔲 Day 7: Classes and Objects
-- 🔲 Day 8: Inheritance and Encapsulation
+Welcome to my **C++ Learning Repo**!  
+This is where I practice and keep track of everything I learn in C++ — from the basics to more advanced topics.
 
 ---
 
-## 🧠 DSA Practice
+## 📅 Daily Progress
 
-| Topic       | Problems Solved |
-|-------------|------------------|
-| Searching   | Binary Search |
-| Sorting     | Bubble Sort, Merge Sort |
-| Linked List | Singly Linked List |
+> ✍️ *I update this section with topics I complete each day.*
 
----
-
-## 🛠️ Mini Projects
-
-| Project         | Description                         |
-|----------------|-------------------------------------|
-| Bank System     | Console-based banking simulation    |
-| Quiz Game       | Multiple choice questions via CLI   |
-| To-Do List      | Track daily tasks using file I/O    |
+- **June 2, 2025** – Installed compiler, learned about variables and `cout`
+- **June 3, 2025** – Studied data types, `cin`, and basic arithmetic operations  
+- *(Add more as you go...)*
 
 ---
 
-## 💡 Notes
-- Practicing daily with LeetCode and Codeforces
-- Trying to build 1 project every 2 weeks
+## 📂 Folder Structure
+
+
 
 > Made with ❤️ while learning C++
